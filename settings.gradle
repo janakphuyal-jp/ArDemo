@@ -1,0 +1,5 @@
+include ':virocore-release-v_1_17_0'
+include ':sdk-common-1.130.0'
+include ':core-1.10.0'
+include ':app'
+rootProject.name = "ArDemo"
